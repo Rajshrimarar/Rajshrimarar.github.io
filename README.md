@@ -1,2 +1,5 @@
 # hello_rajshri
-another repository
+
+Hi Humans,
+
+My second repository.
